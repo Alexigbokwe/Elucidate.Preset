@@ -1,0 +1,30 @@
+{
+  "name": "@elucidate/preset",
+  "version": "0.0.5",
+  "description": "ExpressWebJs Elucidate preset",
+  "files": [
+    "tsconfig.json",
+    "README.md"
+  ],
+  "scripts": {
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexigbokwe/elucidate_preset"
+  },
+  "keywords": [
+    "typescript",
+    "tslint",
+    "expresswebjs"
+  ],
+  "author": "Alex Igbokwe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexigbokwe/elucidate_preset/issues"
+  },
+  "homepage": "https://github.com/Alexigbokwe/elucidate_preset#readme",
+  "devDependencies": {
+    "np": "^7.4.0"
+  }
+}
